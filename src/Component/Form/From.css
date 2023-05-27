@@ -1,0 +1,13 @@
+input{
+    background-color: white;
+    height: 20px;
+    width: 250px;
+}
+.form{
+align-items:center ;
+    display: flex;
+    flex-direction: column;
+}
+button{
+    color: white;
+}
